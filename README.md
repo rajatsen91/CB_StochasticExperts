@@ -30,3 +30,5 @@ Initialization Parameters:
 
 ```
 
+Examples provided in stochExp.ipynb notebook.
+
