@@ -1,6 +1,8 @@
 # CB_StochasticExperts
 __Code for Contextual Bandits with Stochastic Experts__
 
+Paper url: https://arxiv.org/abs/1802.08737 
+
 Dependencies: xgboost, scikit-learn, pandas, numpy, scipy, matplotlib, multiprocessing, itertools
 
 Base Class: stochExp
