@@ -34,3 +34,7 @@ Initialization Parameters:
 
 Examples provided in stochExp.ipynb notebook.
 
+
+__License__
+
+The code is released under Apache 2.0 license, the terms of which are included in the apache2.lic file in the repository.
